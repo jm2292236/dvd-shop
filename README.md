@@ -1,5 +1,8 @@
 # README
 
+This repository has the code for the **Creating a Rails API from Scratch** lab.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
